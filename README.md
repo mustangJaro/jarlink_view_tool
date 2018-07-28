@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+JarlinkViewTool::Renderer.copyright 'AJ Jaro', 'All rights reserved'
+```
 
 ## Development
 
