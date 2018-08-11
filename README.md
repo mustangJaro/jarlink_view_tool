@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-JarlinkViewTool::Renderer.copyright 'AJ Jaro', 'All rights reserved'
+JarlinkViewTool::Renderer.copyright 'mustangJaro', 'All rights reserved'
 ```
 
 ## Development
